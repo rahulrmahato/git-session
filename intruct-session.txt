@@ -1,0 +1,22 @@
+Git ---> repo
+Fork >> dusre ka repo
+Clone >> git clone url > local sys
+Changes >> wapas se git me daalna h 
+Git status
+Red --> no commit yet, untracked files
+Local >>> git ko nhi pata h 
+add>>git me >>>> git add session.txt
+Git commit >> git commit -m "Edited txt file"
+Push >>>> git push origin main
+
+
+
+
+
+Current directory(file location) >>> pwd
+Create file >>>> touch filename.extension
+Open file >>>>> code filename.extension
+Make folder >>>> mkdir git-sesion-v2.0
+
+
+Git pull upstream main
