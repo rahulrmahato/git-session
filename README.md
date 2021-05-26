@@ -1,7 +1,7 @@
 # Git/GitHub Session
 This is a Repo for the Session on Git/GitHub.
 
-[![MasterHead](https://raw.githubusercontent.com/kunal-mahatha/git-session/master/Screenshot%202021-05-26%20at%2021.38.56.png)](https://username.github.io)
+[![MasterHead](https://raw.githubusercontent.com/kunal-mahatha/git-session/master/banner.png)](https://username.github.io)
 
 ## What is Git ?
 Git is a version control system that lets you manage and keep track of your source code history.
