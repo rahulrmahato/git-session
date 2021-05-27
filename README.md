@@ -9,6 +9,9 @@ Git is a version control system that lets you manage and keep track of your sour
 ## What is GitHub ?
 GitHub is a cloud-based hosting service that lets you manage Git repositories. If you have open-source projects that use Git, then GitHub is designed to help you better manage them.
 
+## What’s a repository?
+A repository, or Git project, encompasses the entire collection of files and folders associated with a project, along with each file’s revision history.
+
 ## Using Git
 ## Basic Commands
 * `pwd` prints working directory
