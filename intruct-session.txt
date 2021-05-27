@@ -19,4 +19,3 @@ Open file >>>>> code filename.extension
 Make folder >>>> mkdir git-sesion-v2.0
 
 
-Git pull upstream main

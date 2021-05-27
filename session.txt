@@ -1,7 +1,10 @@
 This is a git session. Hello Rahul & Abhinav.
 This is Rahul.Hello 
+Chai pii looo
 my name is anubhav anand
 i am editing one more time -anubhav anand
 I am editing the file to evoke merge conflict
 i am anubhav it my secong git session
+I am again editing this file to explain it to Anupam
+hello guys !! subscribe to my youtube channel.
 
