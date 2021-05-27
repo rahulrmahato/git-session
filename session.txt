@@ -12,3 +12,4 @@ hello guys !! subscribe to my youtube channel.
 Session 02
 Anubhav freee  pettiz.
 Rahul will face merge conflict
+Anubhav and rahul both will face merge conflict.
