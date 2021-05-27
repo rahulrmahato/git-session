@@ -13,3 +13,5 @@ Session 02
 Anubhav freee  pettiz.
 Rahul will face merge conflict
 I am back.
+Anubhav and rahul both will face merge conflict.
+
